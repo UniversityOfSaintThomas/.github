@@ -1,6 +1,7 @@
 # University of St. Thomas Official GitHub Organization
 
-<img width="768" height="154" alt="image" src="https://github.com/user-attachments/assets/5a63366f-27a0-4603-8297-f1fc7a0c13bb" />
+<img width="613" height="208" alt="image" src="https://github.com/user-attachments/assets/2db13120-37c1-452a-b816-72c70fb2275a" />
+
 
 <br>
 
