@@ -4,31 +4,46 @@
 
 <br>
 
-Welcome to the University of St. Thomas GitHub organization. This organization serves as a collaborative home for software development, academic projects, Salesforce solutions, web publishing, research initiatives, and technology innovation across the University of St. Thomas community. **St. Thomas educates students to be morally responsible leaders who think critically, act wisely, and work skillfully to advance the common good.**
+Welcome to the University of St. Thomas GitHub Campus organization.
 
 > [!Note]
-> See more information in our usage of GitHub: https://link.stthomas.edu/GitHubReadMe
+> See our documentation site: https://link.stthomas.edu/GitHubReadMe
 
 <br>
 
 ## About
 
-The University of St. Thomas GitHub organization provides a centralized space where students, faculty, and staff can:
+The University of St. Thomas GitHub Campus organization provides a central space where students, faculty, and staff can:
 
 - Collaborate on software projects
 - Share code and technical resources
 - Develop and maintain Salesforce applications
-- Host websites using GitHub Pages
+- [Host websites using GitHub Pages](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/Article/169372/Hosting-a-Website-with-St-Thomas-GitHub-Pages)
 - Support research, teaching, and innovation initiatives
-- Explore emerging technologies including Generative AI
+- Explore emerging technologies
 
-<br>
+## Documentation
+
+Documentation is available [in TommieTechServices](https://link.stthomas.edu/GitHubReadMe):
+
+- [Logging Into the St. Thomas GitHub](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=169369)
+- [Sharing code in the St. Thomas GitHub](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=169370)
+- [Hosting a website in the St. Thomas GitHub](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=169372)
+- [Managing teams in the St. Thomas GitHub](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=169371)
+- More information on GitHub and Git:
+  - [GitHub guides](https://guides.github.com/)
+  - [GitHub labs](https://lab.github.com/)
+  - UST's GitHub Developer Guides (require login):
+    - [10 Git Essentials](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=168287)
+    - [Using GitHub repositories](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=168917)
+    - [GitOps Best Practices for Workflow/Development Automation](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=168391)
+    - [10 Markdown Essentials](https://services.stthomas.edu/TDClient/1898/ClientPortal/KB/ArticleDet?ID=168284) (text formatting in GitHub)
+  - [Git official technical documentation](https://git-scm.com/docs)
+  - [W3Schools Git Tutorials](https://www.w3schools.com/git/)
 
 ## Contributing
 
 Please follow University policies, team standards, and repository-specific contribution guidelines. Respect responsible use practices and collaborate professionally.
-
-<br>
 
 ## License
 
